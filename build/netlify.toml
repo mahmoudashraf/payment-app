@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api/*"
+  to = "https://unrivaled-belekoy-98081f.netlify.app/.netlify/functions/server/api/balance:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
